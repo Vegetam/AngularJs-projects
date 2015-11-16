@@ -1,5 +1,9 @@
 This Project is a simeple Demo with Angular and AngularSeed plus AngularRoute and with Bootstrap for the layout and an integration of Paypal
 
+For more information about AngularSeed please look the following link :
+
+https://github.com/angular/angular-seed
+
 You need have NodeJs installed.
 
 You need install Git from the following link :
