@@ -14,4 +14,9 @@ you need install bower :
 
 http://bower.io/
 
+You can check the following link for see how it's look the website :
+
+http://www.francescomalagrino.com/Projects/AngularJs/templateStore/app/#/templates
+
+
 
